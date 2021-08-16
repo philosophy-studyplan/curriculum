@@ -5,7 +5,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 # Curriculum
 
 # Introductory Classes
-## Introduction to Philosophy
+### Introduction to Philosophy
 The purpose of this section is to get you acquainted with philosophy. As such, the first class will be an introduction to philosophy as a whole.
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
