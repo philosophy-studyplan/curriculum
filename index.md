@@ -14,7 +14,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 # Curriculum
 
 - [Introductory Classes](#introductory-classes)
-  - [Introduction to Philosophy:God, Knowledge and Consciousness](#introduction-to-philosophy)
+  - [Introduction to Philosophy](#introduction-to-philosophy)
 - [Core Sequence](#core-sequence)
   - [Classics in Western Philosophy](#classics-in-western-philosophy)
   - [Ethics I](#ethics-i)
@@ -25,7 +25,7 @@ The purpose of this section is to get you acquainted with philosophy. You should
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Philosophy:God, Knowledge and Consciousness](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
+[Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
 [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
 
 ## Core Sequence
