@@ -164,3 +164,10 @@ Course | Duration | Effort | Prerequisites
 [Philosophy In Film and Other Media](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-209-philosophy-in-film-and-other-media-spring-2004/) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 [Philosophy of Film](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-213-philosophy-of-film-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 [Film as Visual and Literary Mythmaking](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-264-film-as-visual-and-literary-mythmaking-fall-2005/) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
+
+### Eastern Philosophy
+
+This section is awfully short, considering how amazing and diverse so-called Eastern Philosophy actually is. More generally, I wish non-western philosophy classes would be more readily available on the internet. Any recommendation here especially would be more than welcome. In the mean time, here are two courses explaining Chinese philosophy, from Confucius to Zhuangzi and Xunzi.
+
+[The Path to Happiness](https://www.edx.org/course/the-path-to-happiness?index=product&queryID=5da576b32276de4e6f0c32a71fba7982&position=6) | 13 weeks | 1-2h/week | [Introductory Classes](#introductory-classes)
+[Humanity and Nature in Chinese Thought](https://www.edx.org/course/humanity-and-nature-in-chinese-thought?index=product&queryID=23dcf5643dc6198c75adca7b21654543&position=1) | 8 weeks | 2-3h/week | [Introductory Classes](#introductory-classes)
