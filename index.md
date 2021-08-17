@@ -12,6 +12,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 
 - [Introductory Classes](#introd)
   - [Introduction to Philosophy](#introphil)
+- [Core Sequence](#core)
 
 ## Introductory Classes
 ### Introduction to Philosophy
