@@ -1,6 +1,6 @@
 ## What is this project?
 
-The goal of this git repo is to host a GitHub page discussing a flexible study plan in philosophy. You can find the website [here](https://kuri7.github.io/A-Study-Plan-in-Philosophy/).
+The goal of this git repo is to host a GitHub page discussing a flexible study plan in philosophy. You can find the website [here](https://philosophy-studyplan.github.io/curriculum/).
 
 ## Can I contribute?
 
