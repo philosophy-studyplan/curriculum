@@ -87,8 +87,9 @@ Course | Duration | Effort | Prerequisites
 
 ### Political Philosophy
 
-Political philosophy is concerned with the nature, scope, and legitimacy of public agents and institutions and the relationships between them. It discusses topics such as freedom, government, laws and authority.
+Political philosophy is concerned with the nature, scope, and legitimacy of public agents and institutions and the relationships between them. It discusses topics such as freedom, government, laws and authority. The first class is a general introduction to the concept of justice, while the second one focuses on the philosophy of law in particular.
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | Introductory Classes
+[Philosophy of Law](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-235j-philosophy-of-law-spring-2012/index.htm) | 16 weeks | 4-8h* | Introductory Classes
