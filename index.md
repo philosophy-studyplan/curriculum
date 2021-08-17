@@ -22,7 +22,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 
 ## Introductory Classes
 ### Introduction to Philosophy
-The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that. Lastly, the third class is an alternative version of the first one, with less breadth but more depth
+The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that. Lastly, the third class is an alternative version of the first one, with less breadth but more depth. **Before you start**, I highly suggest reading [this](http://www.jimpryor.net/teaching/guidelines/reading.html) and [this](http://www.jimpryor.net/teaching/guidelines/writing.html).
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
