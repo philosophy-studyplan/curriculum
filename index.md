@@ -24,6 +24,7 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
   - [Ethics](#ethics)
   - [Epistemology](#epistemology)
   - [Metaphysics](#metaphysics)
+  - [Philosophy of Mind](#philosophy-of-mind)
 
 ## Introductory Classes
 ### Introduction to Philosophy
