@@ -62,6 +62,8 @@ Course | Duration | Effort | Prerequisites
 
 ### Metaphysics
 
+Metaphysics is the branch of philosophy that studies the first principles of being, identity and change, space and time, causality, necessity and possibility. This class will tackle various topics such as ontology, time and free will to name a few. This class has readings and various assignments but no lecture notes.
+
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
