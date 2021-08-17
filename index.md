@@ -29,7 +29,7 @@ Course | Duration | Effort | Prerequisites
 ## Core Sequence
 This section will deal with common topics that almost all philosophy undergraduate students will encounter at some point.
 
-# Historical Philosophy
+### Historical Philosophy
 
 This class will introduce you to a few important Western philosophers. You will read about various arguments these philosophers have put forth in multiple fields of philosphy and how they interact.
 
