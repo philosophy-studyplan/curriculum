@@ -8,9 +8,11 @@
 
 # Summary
 
-The goal of this page is to create a flexible study plan in philosophy (mostly Western since this is what I know, although suggestions are more than open!) in the spirit of [this great resource](https://github.com/ossu/computer-science). The goal will be to organize the study plan in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
+I strongly believe that anyone can learn philosophy. Why then is it still considered difficult to grasp? I think part of the problem is that we're missing a clear study plan, with adequate resources that will help someone to self-study philosophy, and hopefully get some appreciation for the subject. The goal of this page is to create one such study plan in the spirit of [this great resource](https://github.com/ossu/computer-science). I will try to organize this study plan in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. I also need to mention that most philosophy I have read is classical Western philosophy. I apologize in advance if my bias shows, any suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
 
 **How to follow this study plan:** I highly suggest you go through the introductory classes and the core courses in a linear fashion. Sometimes, classes have to be taken at the same time and I will always explicitly say that in the short write-up before the classes in question. Sometimes, I will provide two classes for one specific topic. It is up to you whether you want to do both or not. I suggest mixing and matching. For instance, if one class has video lectures but no assignments and no readings, but the other does, then watch the lectures as you read and go through the assignments. Usually, the first link in a class table is required, but I will sometimes add another (or multiple) other links that would be interesting to watch but are not necessarily required reading. Some courses can overlap.
+
+**Am I too {old/stupid/some other bad attribute} to learn philosophy?**: Literally anyone with an interest in philosophy can follow this study plan, from high school students to aerospace engineers and dance teachers. See [this section](#how-to-learn) if you think you lack a certain attribute or talent to be able to study philosophy.
 
 **Duration:** A key thing to keep in mind is that the duration and effort per week estimates are only that, estimates. It is extremely hard to estimate properly how much time it will take you to read a text, analyze it, understand it and digest it well enough to explain the core arguments in an essay. As such, I will use the duration/effort periods when they are given by the instructors themselves, and there will be an asterisk when the duration/effort number is a pure guess.
 
@@ -23,6 +25,7 @@ That is not to say there is no point in reading from the source directly. Actual
 # Curriculum
 
 - [Introductory Classes](#introductory-classes)
+  - [How to Learn](#how-to-learn)
   - [Introduction to Philosophy](#introduction-to-philosophy)
 - [Core Sequence](#core-sequence)
   - [Historical Philosophy](#historical-philosophy)
@@ -34,14 +37,23 @@ That is not to say there is no point in reading from the source directly. Actual
 - [Elective Classes](#elective-classes)
 
 ## Introductory Classes
+
+### How to Learn
+
+Before we do any philosophy, I want to talk a bit about learning itself. Most of us that have gone through the usual school system firmly believe that the only way to learn is to have someone impart their knowledge onto us. While having a teacher is certainly useful, this is not the only way one can learn. The further you go into your field of interest, be it computer science or gender studies, the more you'll have to rely on yourself to learn, understand and digest the material in front of you. Anyone can self-study anything, they just need the right tools and enough time. To this end, I think everyone regardless of major or interest should take the following course. It will help dispel common myths around learning and will truly teach you how to learn. It will also help you with anxiety stopping you from studying and achieving your full potential. Of special interest is the section on procrastination, which is a problem a lot of us face in some way during our studies.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn?)
+
 ### Introduction to Philosophy
 The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that. Lastly, the third class is an alternative version of the first one, with less breadth but more depth. **Before you start**, I highly suggest reading [this](http://www.jimpryor.net/teaching/guidelines/reading.html) and [this](http://www.jimpryor.net/teaching/guidelines/writing.html).
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
-[Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
-[Relativism, Reason and Reality](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-03-relativism-reason-and-reality-spring-2005/index.htm) | 14 weeks | 4-8h*/week | none
+[Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | [Learning How to Learn](#how-to-learn)
+[Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | [Learning How to Learn](#how-to-learn)
+[Relativism, Reason and Reality](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-03-relativism-reason-and-reality-spring-2005/index.htm) | 14 weeks | 4-8h*/week | [Learning How to Learn](#how-to-learn)
 
 ## Core Sequence
 This section will deal with common topics that a wide range of philosophy undergraduate students will encounter at some point. Sometimes, only an introduction to the topic will be given, but a more advanced class can be taken in the electives section.
@@ -61,7 +73,7 @@ Ethics concerns our notions of right and wrong. The goal of this section is to t
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | [Introductory Classes](#introductory-classes)
-[Ethics in Action](https://www.edx.org/course/ethics-in-action) | 10 weeks | 2-4h/week | none
+[Ethics in Action](https://www.edx.org/course/ethics-in-action) | 10 weeks | 2-4h/week | [Introductory Classes](#introductory-classes)
 
 ### Epistemology
 
