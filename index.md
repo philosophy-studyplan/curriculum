@@ -79,5 +79,5 @@ The Philosophy of Mind is a branch of philosophy that is concerned with the mind
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about)
+[Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about) | 12 weeks | 4-6h | Introductory Classes
 
