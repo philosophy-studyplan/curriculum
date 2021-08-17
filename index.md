@@ -1,14 +1,14 @@
 # Contents
 
 - [Summary](#summary)
-- [FAQ](#faq)
+- [Before You Start](#before-you-start)
 - [Curriculum](#curriculum)
 
 # Summary
 
 I strongly believe that anyone can learn philosophy. Why then is it still considered difficult to grasp? I think part of the problem is that we're missing a clear study plan, with adequate resources that will help someone to self-study philosophy, and hopefully get some appreciation for the subject. The goal of this page is to create one such study plan in the spirit of [this great resource](https://github.com/ossu/computer-science). I will try to organize this study plan in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. I also need to mention that most philosophy I have read is classical Western philosophy. I apologize in advance if my bias shows, any suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
 
-# FAQ
+# Before You Start
 
 **How to follow this study plan:** I highly suggest you go through the introductory classes and the core courses in a linear fashion. Sometimes, classes have to be taken at the same time and I will always explicitly say that in the short write-up before the classes in question. Sometimes, I will provide two classes for one specific topic. It is up to you whether you want to do both or not. I suggest mixing and matching. For instance, if one class has video lectures but no assignments and no readings, but the other does, then watch the lectures as you read and go through the assignments. Usually, the first link in a class table is required, but I will sometimes add another (or multiple) other links that would be interesting to watch but are not necessarily required reading. Some courses can overlap.
 
