@@ -40,6 +40,7 @@ That is not to say there is no point in reading from the source directly. Actual
   - [Philosophy of Language](#philosophy-of-language)
   - [Further Ethics](#further-ethics)
   - [Philosophy of Film](#philosophy-of-film)
+  - [Eastern Philosophy](#eastern-philosophy)
 
 ## Introductory Classes
 
