@@ -72,3 +72,11 @@ Course | Duration | Effort | Prerequisites
 [Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
 [Metaphysics: Free Will](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-free-will-fall-2004/index.htm) | 12 weeks | 4-8h* | Introductory Classes
 
+### Philosophy of Mind
+
+The Philosophy of Mind is a branch of philosophy that is concerned with the mind and its relationship to the body. Consciousness is another important topic in this field. The class has an associated [MIT homepage](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-09-minds-and-machines-fall-2011/) that you should visit as well.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about)
+
