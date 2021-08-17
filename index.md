@@ -146,7 +146,7 @@ The purpose of this class is to investigate the nature of language, the relation
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Philosophy of Language](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-251-introduction-to-philosophy-of-language-fall-2011/) | 13 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
-[Introduction to Linguistics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/) | 14 weeks | 4-8h*/week | none
+[Introduction to Linguistics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/) | 14 weeks | 4-8h*/week | [Learning How to Learn](#how-to-learn)
 
 ### Further Ethics
 
