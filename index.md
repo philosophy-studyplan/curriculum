@@ -29,6 +29,8 @@ That is not to say there is no point in reading from the source directly. Actual
   - [Epistemology](#epistemology)
   - [Metaphysics](#metaphysics)
   - [Philosophy of Mind](#philosophy-of-mind)
+  - [Political Philosophy](#political-philosophy)
+- [Elective Classes](#elective-classes)
 
 ## Introductory Classes
 ### Introduction to Philosophy
@@ -93,3 +95,7 @@ Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | Introductory Classes
 [Philosophy of Law](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-235j-philosophy-of-law-spring-2012/index.htm) | 16 weeks | 4-8h* | Introductory Classes
+
+## Elective Classes
+
+This section discusses undergraduate elective classes. The topics are either follow-ups of previous classes (such as ethics or logic) or completely separate topics.
