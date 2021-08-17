@@ -14,7 +14,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 # Curriculum
 
 - [Introductory Classes](#introductory-classes)
-  - [Introduction to Philosophy](#introduction-to-philosophy)
+  - [Introduction to Philosophy:God, Knowledge and Consciousness](#introduction-to-philosophy)
 - [Core Sequence](#core-sequence)
   - [Classics in Western Philosophy](#classics-in-western-philosophy)
   - [Ethics I](#ethics-i)
