@@ -20,6 +20,7 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
 - [Core Sequence](#core-sequence)
   - [Historical Philosophy](#historical-philosophy)
   - [Ethics](#ethics)
+  - [Epistemology](#epistemology)
   - [Metaphysics](#metaphysics)
 
 ## Introductory Classes
@@ -62,9 +63,10 @@ Course | Duration | Effort | Prerequisites
 
 ### Metaphysics
 
-Metaphysics is the branch of philosophy that studies the first principles of being, identity and change, space and time, causality, necessity and possibility. This class will tackle various topics such as ontology, time and free will to name a few. This class has readings and various assignments but no lecture notes.
+Metaphysics is the branch of philosophy that studies the first principles of being, identity and change, space and time, causality, necessity and possibility. This class will tackle various topics such as ontology, time and free will to name a few. This class has readings and various assignments but no lecture notes. The second one is an alternative class focusing mainly on the concept of free will, but with lecture notes.
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
+[Metaphysics: Free Will](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-free-will-fall-2004/index.htm) | 12 weeks | 4-8h* | Introductory Classes
 
