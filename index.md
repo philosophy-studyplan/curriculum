@@ -13,7 +13,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 - [Introductory Classes](#introd)
   - [Introduction to Philosophy](#introphil)
 
-# Introductory Classes
+## Introductory Classes
 ### Introduction to Philosophy
 The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that.
 
@@ -21,32 +21,3 @@ Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
 [Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
 [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
