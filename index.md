@@ -26,4 +26,4 @@ Course | Duration | Effort | Prerequisites
 ## Core Sequence
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
-[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | - | Introduction to Philosophy
+[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | --- | Introduction to Philosophy
