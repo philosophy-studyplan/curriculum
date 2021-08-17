@@ -63,7 +63,7 @@ Course | Duration | Effort | Prerequisites
 
 ### Metaphysics
 
-Metaphysics is the branch of philosophy that studies the first principles of being, identity and change, space and time, causality, necessity and possibility. This class will tackle various topics such as ontology, time and free will to name a few. This class has readings and various assignments but no lecture notes. The second one is an alternative class focusing mainly on the concept of free will, but with lecture notes.
+Metaphysics is the branch of philosophy that studies the first principles of being, identity and change, space and time, causality, necessity and possibility. The first class will tackle various topics such as ontology, time and free will to name a few. It has readings and various assignments but no lecture notes. The second one is an alternative class focusing mainly on the concept of free will, but with lecture notes.
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
