@@ -1,7 +1,7 @@
 # Contents
 
 - [Summary](#summary)
-- [Introductory Classes](#introd)
+- [Curriculum](#curriculum)
 
 # Summary
 
