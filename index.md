@@ -15,6 +15,8 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
 
 **I disagree with what is considered core**: That is totally fair. I think it's hard to say what is a "core sequence" in philosophy, because it's very wide in scope and everyone has different interests. If something doesn't interest you, no one's judging you. The core sequence simply represents classes that I think are important to an undergraduate education in philosophy.
 
+**What about books? Will you include X's book on Y?**: The short answer is no. I'm looking for classes, with assignments and specific reading. This also excludes very popular books like Kant's Critique of Pure Reason or Plato's Republic (say). The reason why is that this is usually too difficult for a beginner in philosophy. Jumping straight into [Aristotle's massive Collected Works](https://www.amazon.com/Complete-Works-Aristotle-Vol-1/dp/069101650X/) can be tough because you need to learn a specific vocabulary and way of thinking that requires time and effort to develop. That is not to say there is no point in reading from the source directly. Actually, I advise you to look into various philosophers you enjoyed reading about and look at their work, either directly or with a secondary source. But I want to make sure the classes have additional information on helping you wade through the books, either in the form of video lectures or lecture notes, or more simply with specified readings with assignments that make sure you're challenging what you're reading and you're taking time to really assimilate the various arguments the author is making.
+
 # Curriculum
 
 - [Introductory Classes](#introductory-classes)
@@ -81,3 +83,10 @@ Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about) | 12 weeks | 4-6h | Introductory Classes
 
+### Political Philosophy
+
+Political philosophy is concerned with the nature, scope, and legitimacy of public agents and institutions and the relationships between them. It discusses topics such as freedom, government, laws and authority.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | Introductory Classes
