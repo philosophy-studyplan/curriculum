@@ -51,7 +51,7 @@ This class will introduce you to a few important Western philosophers. You will 
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h*/week | Introductory Classes
+[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ### Ethics
 
@@ -59,7 +59,7 @@ Ethics concerns our notions of right and wrong. The goal of this section is to t
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | Introductory Classes
+[Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | [Introductory Classes](#introductory-classes)
 [Ethics in Action](https://www.edx.org/course/ethics-in-action) | 10 weeks | 2-4h/week | none
 
 ### Epistemology
@@ -68,7 +68,7 @@ Epistemology is the study of knowledge in its various forms. What can we know? W
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Theory of Knowledge](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-211-theory-of-knowledge-spring-2014/) | 14 weeks | 4-8h*/week | Introductory Classes
+[Theory of Knowledge](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-211-theory-of-knowledge-spring-2014/) | 14 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ### Metaphysics
 
@@ -77,7 +77,7 @@ Metaphysics is the branch of philosophy that studies the first principles of bei
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
-[Metaphysics: Free Will](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-free-will-fall-2004/index.htm) | 12 weeks | 4-8h*/week | Introductory Classes
+[Metaphysics: Free Will](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-free-will-fall-2004/index.htm) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ### Philosophy of Mind
 
@@ -85,7 +85,7 @@ The Philosophy of Mind is a branch of philosophy that is concerned with the mind
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about) | 12 weeks | 4-6h/week | Introductory Classes
+[Minds and Machines](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.09x+3T2019/about) | 12 weeks | 4-6h/week | [Introductory Classes](#introductory-classes)
 
 ### Political Philosophy
 
@@ -94,7 +94,7 @@ Political philosophy is concerned with the nature, scope, and legitimacy of publ
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | Introductory Classes
-[Philosophy of Law](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-235j-philosophy-of-law-spring-2012/index.htm) | 16 weeks | 4-8h*/week | Introductory Classes
+[Philosophy of Law](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-235j-philosophy-of-law-spring-2012/index.htm) | 16 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ## Elective Classes
 
@@ -106,4 +106,4 @@ This course will discuss ancient philosophy in more details, focusing mainly on 
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Ancient Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-200-ancient-philosophy-fall-2004/index.htm) | 13 weeks | 4-8h*/week | 
+[Ancient Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-200-ancient-philosophy-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Classics in Western Philosophy](#classics-in-western-philosophy)
