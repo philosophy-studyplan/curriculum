@@ -117,7 +117,7 @@ Course | Duration | Effort | Prerequisites
 
 ## Elective Classes
 
-This section discusses undergraduate elective classes. The topics are either follow-ups of previous classes (such as ethics or logic) or completely separate topics. Classes should now be chosen primarily on the basis of interest. There is no linear ordering here, you can pick and choose sections as you see fit as long as the requirements are cleared.
+If you've completed core sequence, congratulations, you now know a decent amount of philosophy! This section here discusses undergraduate elective classes. The topics are either follow-ups of previous classes (such as ethics or logic) or completely separate topics. Classes should now be chosen primarily on the basis of interest. There is no linear ordering here, you can pick and choose sections as you see fit as long as the requirements are cleared.
 
 ### Ancient Philosophy
 
@@ -170,5 +170,11 @@ Course | Duration | Effort | Prerequisites
 
 This section is awfully short, considering how amazing and diverse so-called Eastern Philosophy actually is. More generally, I wish non-western philosophy classes would be more readily available on the internet. Any recommendation here especially would be more than welcome. In the mean time, here are two courses explaining Chinese philosophy, from Confucius to Zhuangzi and Xunzi.
 
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
 [The Path to Happiness](https://www.edx.org/course/the-path-to-happiness?index=product&queryID=5da576b32276de4e6f0c32a71fba7982&position=6) | 13 weeks | 1-2h/week | [Introductory Classes](#introductory-classes)
 [Humanity and Nature in Chinese Thought](https://www.edx.org/course/humanity-and-nature-in-chinese-thought?index=product&queryID=23dcf5643dc6198c75adca7b21654543&position=1) | 8 weeks | 2-3h/week | [Introductory Classes](#introductory-classes)
+
+## Advanced Topics
+
+If you're here and you've already taken the core sequence and the electives that interested you, give yourself a pat on the back. Just like with electives, classes are now fully optional and you can decide to stop learning altogether. But if you're still here after learning this much philosophy, you're probably really interested in it by now. This section will be slightly different because of the difficulty of finding seminar or topics class online. Instead, I highly suggest you check out the [graduate-level classes](https://ocw.mit.edu/courses/linguistics-and-philosophy/) on the OCW MIT website and pick what interests you. Another thing you can do is go deeper into one particular subject or into one particular philosopher.
