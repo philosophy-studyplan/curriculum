@@ -22,12 +22,13 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 
 ## Introductory Classes
 ### Introduction to Philosophy
-The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that.
+The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that. Lastly, the third class is an alternative version of the first one, with less breadth but more depth
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
 [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
+[Relativism, Reason and Reality](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-03-relativism-reason-and-reality-spring-2005/index.htm) | 14 weeks | 4-8h | none
 
 ## Core Sequence
 This section will deal with common topics that almost all philosophy undergraduate students will encounter at some point. Sometimes, only an introduction to the topic will be given, but a more advanced class can be taken in the electives section.
@@ -38,7 +39,7 @@ This class will introduce you to a few important Western philosophers. You will 
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introduction to Philosophy
+[Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introductory Classes
 
 ### Ethics
 
@@ -46,11 +47,17 @@ Ethics concerns our notions of right and wrong. The goal of this section is to t
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | none
+[Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | Introductory Classes
 [Ethics in Action](https://www.edx.org/course/ethics-in-action) | 10 weeks | 2-4h | none
+
+### Epistemology
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Theory of Knowledge](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-211-theory-of-knowledge-spring-2014/) | 14 weeks | 4-8h* | Introductory Classes
 
 ### Metaphysics
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Relativism, Reason and Reality](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-03-relativism-reason-and-reality-spring-2005/index.htm) | 
+
