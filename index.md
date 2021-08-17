@@ -4,6 +4,7 @@
 - [Curriculum](#curriculum)
   - [Introductory Classes](#introductory-classes)
   - [Core Sequence](#core-sequence)
+  - [Elective Classes](#elective-classes)
 
 # Summary
 
