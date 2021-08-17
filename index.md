@@ -98,4 +98,4 @@ Course | Duration | Effort | Prerequisites
 
 ## Elective Classes
 
-This section discusses undergraduate elective classes. The topics are either follow-ups of previous classes (such as ethics or logic) or completely separate topics.
+This section discusses undergraduate elective classes. The topics are either follow-ups of previous classes (such as ethics or logic) or completely separate topics. Classes should now be chosen primarily on the basis of interest. There is no linear ordering here, you can pick and choose sections as you see fit as long as the requirements are cleared.
