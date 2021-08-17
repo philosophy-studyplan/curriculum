@@ -106,4 +106,4 @@ This course will discuss ancient philosophy in more details, focusing mainly on 
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Ancient Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-200-ancient-philosophy-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Classics in Western Philosophy](#classics-in-western-philosophy)
+[Ancient Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-200-ancient-philosophy-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Classics in Western Philosophy](#historical-philosophy)
