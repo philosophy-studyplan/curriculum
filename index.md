@@ -37,3 +37,11 @@ This class will introduce you to a few important Western philosophers. You will 
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
 [Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introduction to Philosophy
+
+### Ethics
+
+Ethics concerns our notions of right and wrong. The goal of this class is to think about difficult ethical questions and how to tackle them rigorously. This class has a [homepage at OCW MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-02-moral-problems-and-the-good-life-fall-2008/) with assignments, additional readings and more.
+
+Course | Duration | Effort | Prerequisites
+-------|----------|--------|--------------
+[Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | none
