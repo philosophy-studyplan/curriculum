@@ -36,7 +36,7 @@ This section will deal with common topics that almost all philosophy undergradua
 This class will introduce you to a few important Western philosophers. You will read about various arguments these philosophers have put forth in multiple fields of philosphy and how they interact. It is **imperative** that you go through the assignments and exams. The class has a complete set of lecture notes but I would advise you to get the [book](https://www.amazon.com/Classics-Philosophy-Louis-P-Pojman/dp/0199737290/ref=sr_1_1?dchild=1&keywords=Classics+of+Philosophy&qid=1629197044&sr=8-1) recommended. The class is based on the second edition of this book so it might be useful to compare the differences with the third which is the commonly available one.
 
 Course | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introduction to Philosophy
 
 ### Ethics I
@@ -44,5 +44,5 @@ Course | Duration | Effort | Prerequisites
 Ethics concerns our notions of right and wrong. The goal of this class is to think about difficult ethical questions and how to tackle them rigorously. This class has a [homepage at OCW MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-02-moral-problems-and-the-good-life-fall-2008/) with assignments, additional readings and more.
 
 Course | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--:
 [Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | none
