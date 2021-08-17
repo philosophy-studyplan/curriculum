@@ -76,7 +76,7 @@ Metaphysics is the branch of philosophy that studies the first principles of bei
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
+[Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | [Introductory Classes](#introductory-classes)
 [Metaphysics: Free Will](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-free-will-fall-2004/index.htm) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ### Philosophy of Mind
@@ -93,7 +93,7 @@ Political philosophy is concerned with the nature, scope, and legitimacy of publ
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | Introductory Classes
+[Justice](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-04j-justice-spring-2012/index.htm) | 13 weeks | 4-8h* | [Introductory Classes](#introductory-classes)
 [Philosophy of Law](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-235j-philosophy-of-law-spring-2012/index.htm) | 16 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 
 ## Elective Classes
