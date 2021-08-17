@@ -117,7 +117,7 @@ Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm) | 13 weeks | 4-8h*/week | [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic)
 [Logic II](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-242-logic-ii-spring-2004/) | 13 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
-[Modal Logic](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-244-modal-logic-spring-2015/) | 14 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm
+[Modal Logic](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-244-modal-logic-spring-2015/) | 14 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
 
 ### Philosophy of Language
 
