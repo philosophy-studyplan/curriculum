@@ -17,7 +17,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
   - [Introduction to Philosophy](#introduction-to-philosophy)
 - [Core Sequence](#core-sequence)
   - [Classics in Western Philosophy](#classics-in-western-philosophy)
-  - [Introduction to Ethics](#introduction-to-ethics)
+  - [Introduction to Ethics](#ethics-i)
 
 ## Introductory Classes
 ### Introduction to Philosophy
@@ -39,7 +39,7 @@ Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
 [Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introduction to Philosophy
 
-### Ethics
+### Ethics I
 
 Ethics concerns our notions of right and wrong. The goal of this class is to think about difficult ethical questions and how to tackle them rigorously. This class has a [homepage at OCW MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-02-moral-problems-and-the-good-life-fall-2008/) with assignments, additional readings and more.
 
