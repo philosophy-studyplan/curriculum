@@ -27,6 +27,12 @@ Course | Duration | Effort | Prerequisites
 [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
 
 ## Core Sequence
+This section will deal with common topics that almost all philosophy undergraduate students will encounter at some point.
+
+# Historical Philosophy
+
+This class will introduce you to a few important Western philosophers. You will read about various arguments these philosophers have put forth in multiple fields of philosphy and how they interact.
+
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
 [Classics in Western Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-01-classics-in-western-philosophy-spring-2006/) | 12 weeks | 4-8h* | Introduction to Philosophy
