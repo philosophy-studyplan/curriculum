@@ -8,7 +8,7 @@ The goal of this page is to create a flexible and modern syllabus in philosophy 
 
 # Introductory Classes
 ### Introduction to Philosophy
-The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. For this purpose, it is crucial that you do the [assignments](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-00-problems-of-philosophy-fall-2019/assignments/) on the [class homepage at MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-00-problems-of-philosophy-fall-2019/index.htm). Take your time to digest the assigned [readings](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-00-problems-of-philosophy-fall-2019/readings/), at least those that you can access freely.
+The purpose of this section is to get you acquainted with philosophy. You should run both classes simultaneously as they will complement each other. The first one is an introduction to some essential themes in philosophy, and the second one covers logic, fallacies and what constitutes a good argument. Philosophy is not a spectator's sport however, and you have to construct arguments yourself at some point. The logic class will help with that.
 
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
