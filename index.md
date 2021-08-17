@@ -44,6 +44,7 @@ That is not to say there is no point in reading from the source directly. Actual
   - [Further Ethics](#further-ethics)
   - [Philosophy of Film](#philosophy-of-film)
   - [Eastern Philosophy](#eastern-philosophy)
+- [Advanced Topics](#advanced-topics)
 
 ## Introductory Classes
 
