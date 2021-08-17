@@ -7,7 +7,7 @@
 
 The goal of this page is to create a flexible and modern syllabus in philosophy (mostly Western since this is what I know, although suggestions are more than open!) in the spirit of [this great resource](https://github.com/ossu/computer-science). The goal will be to organize the website in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
 
-**How to follow this study plan:** I highly suggest you go through the introductory classes and the core courses in a linear fashion. Sometimes, classes have to be taken at the same time and I will always explicitly say that in the short write-up before the classes in question. Sometimes, I will provide two classes for one specific topic. It is up to you whether you want to do both or not. I suggest mixing and matching. For instance, if one class has video lectures but no assignments and no readings, but the other does, then watch the lectures as you read and go through the assignments.
+**How to follow this study plan:** I highly suggest you go through the introductory classes and the core courses in a linear fashion. Sometimes, classes have to be taken at the same time and I will always explicitly say that in the short write-up before the classes in question. Sometimes, I will provide two classes for one specific topic. It is up to you whether you want to do both or not. I suggest mixing and matching. For instance, if one class has video lectures but no assignments and no readings, but the other does, then watch the lectures as you read and go through the assignments. Usually, the first link in a class table is required, but I will sometimes add another (or multiple) other links that would be interesting to watch but are not necessarily required reading.
 
 **Duration:** A key thing to keep in mind is that the duration and effort estimates are only that, estimates. It is extremely hard to estimate properly how much time it will take you to read a text, analyze it, understand it and digest it well enough to explain the core arguments in an essay. As such, I will use the duration/effort periods when they are given by the instructors themselves, and there will be an asterisk when the duration/effort number is a pure guess.
 
@@ -41,8 +41,10 @@ Course | Duration | Effort | Prerequisites
 
 ### Ethics I
 
-Ethics concerns our notions of right and wrong. The goal of this class is to think about difficult ethical questions and how to tackle them rigorously. This class has a [homepage at OCW MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-02-moral-problems-and-the-good-life-fall-2008/) with assignments, additional readings and more.
+Ethics concerns our notions of right and wrong. The goal of this section is to think about difficult ethical questions and how to tackle them rigorously. The first course has a [homepage at OCW MIT](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-02-moral-problems-and-the-good-life-fall-2008/) with assignments, additional readings and more. The second course is an interesting exploration into practical questions that concerns us to this day, ranging from poverty to environmental issues such as sustainable development. Various religious views on virtue are explored as well.
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Ethics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.02x+2T2020/about) | 10 weeks | 5-7h | none
+[Ethics in Action](https://www.edx.org/course/ethics-in-action) | 10 weeks | 2-4h | none
+
