@@ -16,7 +16,7 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
 
 **I disagree with what is considered core**: That is totally fair. I think it's hard to say what is a "core sequence" in philosophy, because it's very wide in scope and everyone has different interests. If something doesn't interest you, no one's judging you. The core sequence simply represents classes that I think are important to an undergraduate education in philosophy.
 
-**What about books? Will you include X's book on Y?**: The short answer is no. I'm looking for classes, with assignments and specific reading. This also excludes very popular books like Kant's Critique of Pure Reason or Plato's Republic (say). The reason why is that this is usually too difficult for a beginner in philosophy. Jumping straight into [Aristotle's massive Collected Works](https://www.amazon.com/Complete-Works-Aristotle-Vol-1/dp/069101650X/) can be tough because you need to learn a specific vocabulary and way of thinking that requires time and effort to develop. 
+**What about books? Will you include X's book on Y?**: The short answer is no unless it's already required reading in a class. I'm looking for actual courses, with assignments and specific reading. This also excludes very popular books like Kant's Critique of Pure Reason or Plato's Republic (say). The reason why is that this is usually too difficult for a beginner in philosophy. Jumping straight into [Aristotle's massive Collected Works](https://www.amazon.com/Complete-Works-Aristotle-Vol-1/dp/069101650X/) can be tough because you need to learn a specific vocabulary and way of thinking that requires time and effort to develop. 
 
 That is not to say there is no point in reading from the source directly. Actually, I advise you to look into various philosophers you enjoyed reading about and look at their work, either directly or with a secondary source. But I want to make sure the classes have additional information on helping you wade through the books, either in the form of video lectures or lecture notes, or more simply with specified readings with assignments that make sure you're challenging what you're reading and you're taking time to really assimilate the various arguments the author is making.
 
@@ -111,7 +111,7 @@ Course | Duration | Effort | Prerequisites
 
 ### Logic
 
-Expanding on the first logic class in [Introductory Classes](#introductory-classes), this sequence will explore more advanced topics in logic from meta-theory to Gödel's Incompleteness Theorem and Modal Logic.
+Expanding on the first logic class in [Introductory Classes](#introductory-classes), the first sequence will explore more advanced topics in logic from meta-theory to Gödel's Incompleteness Theorem. The other course focuses on modal logic. Another good resource on logic that could help you while going through is [this book](https://forallx.openlogicproject.org/forallxyyc.pdf).
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
