@@ -2,10 +2,12 @@
 
 - [Summary](#summary)
 - [Curriculum](#curriculum)
+  - [Introductory Classes](#introductory-classes)
+  - [Core Sequence](#core-sequence)
 
 # Summary
 
-The goal of this page is to create a flexible and modern syllabus in philosophy (mostly Western since this is what I know, although suggestions are more than open!) in the spirit of [this great resource](https://github.com/ossu/computer-science). The goal will be to organize the website in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
+The goal of this page is to create a flexible study plan in philosophy (mostly Western since this is what I know, although suggestions are more than open!) in the spirit of [this great resource](https://github.com/ossu/computer-science). The goal will be to organize the study plan in a similar fashion, using references to free courses whenever I can. I do not claim to know philosophy perfectly well, so any comment or suggestion is more than welcome. For most classes, I will try my best to give a resource that is free for everyone to watch and/or read, but reading a lot is crucial to one's development in philosophy. As such, most classes will have a reading component, an assignment component and (hopefully) video lectures or lecture notes of some sort.
 
 **How to follow this study plan:** I highly suggest you go through the introductory classes and the core courses in a linear fashion. Sometimes, classes have to be taken at the same time and I will always explicitly say that in the short write-up before the classes in question. Sometimes, I will provide two classes for one specific topic. It is up to you whether you want to do both or not. I suggest mixing and matching. For instance, if one class has video lectures but no assignments and no readings, but the other does, then watch the lectures as you read and go through the assignments. Usually, the first link in a class table is required, but I will sometimes add another (or multiple) other links that would be interesting to watch but are not necessarily required reading.
 
