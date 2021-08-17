@@ -16,7 +16,7 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
 
 **I disagree with what is considered core**: That is totally fair. I think it's hard to say what is a "core sequence" in philosophy, because it's very wide in scope and everyone has different interests. If something doesn't interest you, no one's judging you. The core sequence simply represents classes that I think are important to an undergraduate education in philosophy.
 
-**What about books? Will you include X's book on Y?**: The short answer is no unless it's already required reading in a class. I'm looking for actual courses, with assignments and specific reading. This also excludes very popular books like Kant's Critique of Pure Reason or Plato's Republic (say). The reason why is that this is usually too difficult for a beginner in philosophy. Jumping straight into [Aristotle's massive Collected Works](https://www.amazon.com/Complete-Works-Aristotle-Vol-1/dp/069101650X/) can be tough because you need to learn a specific vocabulary and way of thinking that requires time and effort to develop. 
+**What about books? Will you include X's book on Y?**: The short answer is no unless it's already required reading in a class. I'm looking for actual courses, with assignments and specific reading. This also excludes very popular books like Kant's Critique of Pure Reason or Plato's Republic (say). The reason why is that this is usually too difficult for a beginner in philosophy. Jumping straight into [Aristotle's massive Collected Works](https://www.amazon.com/Complete-Works-Aristotle-Vol-1/dp/069101650X/) can be tough because you need to learn a specific, historically contingent vocabulary and way of thinking that requires time and effort to develop. 
 
 That is not to say there is no point in reading from the source directly. Actually, I advise you to look into various philosophers you enjoyed reading about and look at their work, either directly or with a secondary source. But I want to make sure the classes have additional information on helping you wade through the books, either in the form of video lectures or lecture notes, or more simply with specified readings with assignments that make sure you're challenging what you're reading and you're taking time to really assimilate the various arguments the author is making.
 
@@ -127,3 +127,23 @@ Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Philosophy of Language](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-251-introduction-to-philosophy-of-language-fall-2011/) | 13 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
 [Introduction to Linguistics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/) | 14 weeks | 4-8h*/week | none
+
+### Further Ethics
+
+This section is a follow-up to [Ethics](#ethics) discussing other topics and going further into the foundations of morality as well as other topics in ethics.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Meta-ethics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-230-meta-ethics-fall-2015/) | 14 weeks | 4-8h*/week | [Ethics](#ethics)
+[Ethics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-231-ethics-fall-2009/) | 13 weeks | 4-8h*/week | [Ethics](#ethics)
+[Bio-ethics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-06j-bioethics-spring-2009/) | 14 weeks | 4-8h*/week | [Ethics](#ethics)
+
+### Philosophy of Film
+
+The purpose of this section is to discuss philosophy arising out of movies or in relation to movies themselves. There are no hard prerequisites between the courses here, you can pick and choose what interests you most.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Philosophy In Film and Other Media](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-209-philosophy-in-film-and-other-media-spring-2004/) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
+[Philosophy of Film](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-213-philosophy-of-film-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
+[Film as Visual and Literary Mythmaking](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-264-film-as-visual-and-literary-mythmaking-fall-2005/) | 12 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
