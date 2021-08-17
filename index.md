@@ -117,4 +117,13 @@ Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm) | 13 weeks | 4-8h*/week | [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic)
 [Logic II](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-242-logic-ii-spring-2004/) | 13 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
-[Modal Logic](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-244-modal-logic-spring-2015/) | 14 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
+[Modal Logic](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-244-modal-logic-spring-2015/) | 14 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm
+
+### Philosophy of Language
+
+The purpose of this class is to investigate the nature of language, the relations between language, language users, and the world. I've also put an introduction to linguistics as I think this could be of use to a philosopher interested in the philosophy of language.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Philosophy of Language](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-251-introduction-to-philosophy-of-language-fall-2011/) | 13 weeks | 4-8h*/week | [Introductory Classes](#introductory-classes)
+[Introduction to Linguistics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-900-introduction-to-linguistics-fall-2012/) | 14 weeks | 4-8h*/week | none
