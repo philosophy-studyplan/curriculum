@@ -13,6 +13,6 @@ The purpose of this section is to get you acquainted with philosophy. You should
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
 [Introduction to Philosophy](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-con-2) | 12 weeks | 5-6h | none
-[Critical Thinking](https://www.edx.org/course/critical-thinking-fundamentals-of-good-reasoning-2) | 9 weeks | 4-6h | none
+[Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic) | 15 weeks | 5-10h | none
 
 
