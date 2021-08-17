@@ -108,3 +108,13 @@ This course will discuss ancient philosophy in more details, focusing mainly on 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Ancient Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-200-ancient-philosophy-fall-2004/index.htm) | 13 weeks | 4-8h*/week | [Classics in Western Philosophy](#historical-philosophy)
+
+### Logic
+
+Expanding on the first logic class in [Introductory Classes](#introductory-classes), this sequence will explore more advanced topics in logic from meta-theory to Gödel's Incompleteness Theorem and Modal Logic.
+
+Course | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm) | 13 weeks | 4-8h*/week | [Language, Proof and Logic](https://www.edx.org/course/language-proof-and-logic)
+[Logic II](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-242-logic-ii-spring-2004/) | 13 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
+[Modal Logic](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-244-modal-logic-spring-2015/) | 14 weeks | 4-8h*/week | [Logic I](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-241-logic-i-fall-2009/index.htm)
