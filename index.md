@@ -54,6 +54,8 @@ Course | Duration | Effort | Prerequisites
 
 ### Epistemology
 
+Epistemology is the study of knowledge in its various forms. What can we know? What is knowledge? The following class has readings and assignments but no lecture notes sadly.
+
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Theory of Knowledge](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-211-theory-of-knowledge-spring-2014/) | 14 weeks | 4-8h* | Introductory Classes
@@ -62,4 +64,5 @@ Course | Duration | Effort | Prerequisites
 
 Course | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
+[Metaphysics](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-221-metaphysics-spring-2015/index.htm) | 13 weeks | 4-8h* | Introductory Classes
 
