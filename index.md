@@ -5,6 +5,7 @@
   - [Introductory Classes](#introductory-classes)
   - [Core Sequence](#core-sequence)
   - [Elective Classes](#elective-classes)
+  - [Advanced Topics](#advanced-topics)
 
 # Summary
 
