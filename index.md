@@ -13,6 +13,8 @@ The goal of this page is to create a flexible study plan in philosophy (mostly W
 
 **Duration:** A key thing to keep in mind is that the duration and effort estimates are only that, estimates. It is extremely hard to estimate properly how much time it will take you to read a text, analyze it, understand it and digest it well enough to explain the core arguments in an essay. As such, I will use the duration/effort periods when they are given by the instructors themselves, and there will be an asterisk when the duration/effort number is a pure guess.
 
+**I disagree with what is considered core**: That is totally fair. I think it's hard to say what is a "core sequence" in philosophy, because it's very wide in scope and everyone has different interests. If something doesn't interest you, no one's judging you. The core sequence simply represents classes that I think are important to an undergraduate education in philosophy.
+
 # Curriculum
 
 - [Introductory Classes](#introductory-classes)
@@ -34,7 +36,7 @@ Course | Duration | Effort | Prerequisites
 [Relativism, Reason and Reality](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-03-relativism-reason-and-reality-spring-2005/index.htm) | 14 weeks | 4-8h | none
 
 ## Core Sequence
-This section will deal with common topics that almost all philosophy undergraduate students will encounter at some point. Sometimes, only an introduction to the topic will be given, but a more advanced class can be taken in the electives section.
+This section will deal with common topics that a wide range of philosophy undergraduate students will encounter at some point. Sometimes, only an introduction to the topic will be given, but a more advanced class can be taken in the electives section.
 
 ### Historical Philosophy
 
