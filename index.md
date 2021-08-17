@@ -31,7 +31,7 @@ This section will deal with common topics that almost all philosophy undergradua
 
 ### Historical Philosophy
 
-This class will introduce you to a few important Western philosophers. You will read about various arguments these philosophers have put forth in multiple fields of philosphy and how they interact.
+This class will introduce you to a few important Western philosophers. You will read about various arguments these philosophers have put forth in multiple fields of philosphy and how they interact. It is **imperative** that you go through the assignments and exams. The class has a complete set of lecture notes but I would advise you to get the [book](https://www.amazon.com/Classics-Philosophy-Louis-P-Pojman/dp/0199737290/ref=sr_1_1?dchild=1&keywords=Classics+of+Philosophy&qid=1629197044&sr=8-1) recommended. The class is based on the second edition of this book so it might be useful to compare the differences with the third which is the commonly available one.
 
 Course | Duration | Effort | Prerequisites
 -------|----------|--------|--------------
